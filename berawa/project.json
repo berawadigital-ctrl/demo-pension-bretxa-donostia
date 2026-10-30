@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-pension-bretxa-donostia",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T07:16:30+01:00",
+ "updated_at": "2026-10-30T07:30:00+01:00",
+ "business": {
+  "name": "Pensión Bretxa",
+  "legal_name": "Pensión Bretxa (titular persona física, autónomo, según el aviso legal de su web)",
+  "registry_ids": [
+   "NIF de persona física publicado en el aviso legal de su web (no se copia en la demo)"
+  ],
+  "url": "https://www.pensionbretxa.com/",
+  "domain": "pensionbretxa.com",
+  "municipality": "Donostia-San Sebastián",
+  "province": "Gipuzkoa",
+  "address": "C/ Fermín Calbetón 5-2º · 20003 Donostia-San Sebastián",
+  "phones": [
+   "+34 943 430 470",
+   "+34 646 957 745"
+  ],
+  "emails": [
+   "info@pensionbretxa.com"
+  ],
+  "sector": "pensión familiar abierta en 2000 en la Parte Vieja de Donostia-San Sebastián"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Pensi%C3%B3n+Bretxa/@43.3235,-1.9834,17z/data=!4m9!3m8!1s0xd51a54dd94a1673:0xfdc463df0e95ead3!5m2!4m1!1i2!8m2!3d43.3235!4d-1.9834!16s%2Fg%2F1tmpltz0",
+  "date": "2026-10-29T12:47:43+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "url": "mailto:info@pensionbretxa.com",
+  "note": "Su web no tiene motor de reservas: «Reservar» lleva al teléfono (+34 943 43 04 70) y la página de contacto pide escribir a info@pensionbretxa.com. La demo enlaza el correo y el teléfono reales y no construye ningún motor."
+ },
+ "audit_original": {
+  "url": "https://www.pensionbretxa.com/",
+  "date": "2026-10-30T06:52:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
