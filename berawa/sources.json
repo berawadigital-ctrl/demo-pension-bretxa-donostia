@@ -1,0 +1,50 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.pensionbretxa.com/",
+ "read_at": "2026-10-30T07:17:13+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.pensionbretxa.com/",
+   "sha256": "952662eb6a8023a2fee2088af74605aaf370a111a231f3d07c51b05e81737adc",
+   "chars": 4303
+  },
+  {
+   "url": "https://www.pensionbretxa.com/contacto/",
+   "sha256": "ef53ade993e30f9bbe3f0451127d8e1602f2c7c21be28dbebeee95d5dee07a24",
+   "chars": 1553
+  },
+  {
+   "url": "https://www.pensionbretxa.com/habitaciones/",
+   "sha256": "e0472077056c45773fab4d06e658869c4cbfef3c24d84da54916fe9f91a378c5",
+   "chars": 2887
+  },
+  {
+   "url": "https://www.pensionbretxa.com/pension-bretxa/",
+   "sha256": "d8832a66b33b08ae9f817c69092e0b5e6a4eac68c31bbdafd68feb4ce6393fea",
+   "chars": 2287
+  },
+  {
+   "url": "https://www.pensionbretxa.com/tarifas/",
+   "sha256": "a0e9eed1897f94d1de96873c54f6dff2fc1d6c60d76407bb40d332ca67ee3d1d",
+   "chars": 2367
+  }
+ ],
+ "other_pages_read": [
+  "https://www.pensionbretxa.com",
+  "https://www.pensionbretxa.com/aviso-legal/",
+  "https://www.pensionbretxa.com/en/",
+  "https://www.pensionbretxa.com/en/about-pension-bretxa/",
+  "https://www.pensionbretxa.com/en/contact/",
+  "https://www.pensionbretxa.com/en/cookie-policy/",
+  "https://www.pensionbretxa.com/en/legal-notice/",
+  "https://www.pensionbretxa.com/en/privacy-policy/",
+  "https://www.pensionbretxa.com/en/rates/",
+  "https://www.pensionbretxa.com/en/rooms/",
+  "https://www.pensionbretxa.com/fr/",
+  "https://www.pensionbretxa.com/fr/chambres/",
+  "https://www.pensionbretxa.com/fr/propos-pension-bretxa/",
+  "https://www.pensionbretxa.com/politica-cookies/",
+  "https://www.pensionbretxa.com/politica-privacidad/"
+ ]
+}
