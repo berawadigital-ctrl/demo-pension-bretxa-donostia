@@ -6,7 +6,7 @@
  "assets": [
   {
    "path": "img/hero.webp",
-   "sha256": "db1edec4b98e6da11b03cb9e2d18de6fb0a81b6b23aa47eff91c69f10863fd6e",
+   "sha256": "d8942bef962c72cea2bd3a54a71d7d800d343a63aa2b9be3252e578a8ceafce1",
    "origin": "generated",
    "source_url": null,
    "title": "Ilustracion waves (hero)",
@@ -19,13 +19,13 @@
    "depicts_real_business": false,
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
-   "prompt_sha256": "4b5f3f17908c59f2792910e65def83b9a9b4d0bd6c7ed4f5484c80fc7647c3ec",
+   "prompt_sha256": "3388a28248aeaae769dc49eeb49c95eeef48df20c7406ba597aa508e319da0b4",
    "retrieved_at": "2026-10-30T07:30:00+01:00",
    "evidence": "berawa/evidence/assets/hero.txt"
   },
   {
    "path": "img/hero-m.webp",
-   "sha256": "f08437989b177f76eae65bc1f17e1234993d404d12b2b938cafc8184843b0364",
+   "sha256": "8ea0aa594753e3ace07641705715df0a2092db129a43b379fabadde299b9cf7c",
    "origin": "generated",
    "source_url": null,
    "title": "Ilustracion waves (hero)",
@@ -38,7 +38,7 @@
    "depicts_real_business": false,
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
-   "prompt_sha256": "4b5f3f17908c59f2792910e65def83b9a9b4d0bd6c7ed4f5484c80fc7647c3ec",
+   "prompt_sha256": "3388a28248aeaae769dc49eeb49c95eeef48df20c7406ba597aa508e319da0b4",
    "retrieved_at": "2026-10-30T07:30:00+01:00",
    "evidence": "berawa/evidence/assets/hero.txt"
   },

@@ -8,7 +8,7 @@ RD={
 'fr':['Pour voyager seul ou à deux, au cœur de la Vieille Ville. Chambres insonorisées avec TV, chauffage et WiFi libre.','Pour les familles qui cherchent confort et proximité, idéale pour profiter ensemble de la Vieille Ville. Avec TV, chauffage et WiFi libre.'],
 'de':['Für Alleinreisende oder Paare, im Herzen der Altstadt. Schallisolierte Zimmer mit Fernseher, Heizung und freiem WLAN.','Für Familien, die Komfort und Nähe suchen, ideal, um gemeinsam die Altstadt zu genießen. Mit Fernseher, Heizung und freiem WLAN.']}
 ART={
-'hero':('waves',9601,['#e8eef1','#f5f2ec','#1d4e5f','#143846','#0b222b']),
+'hero':('waves',9601,['#b6c5cc','#ccc7bc','#15404f','#0f2e3a','#081a21']),
 'intro':('arches',9602,['#eef0ec','#e7b57f','#1d4e5f','#143846','#0b222b']),
 'r1':('skyline',9611,['#143846','#e6a96b','#f4d6a7','#8a4b2c','#6f3c23','#472616']),
 'r2':('hills',9612,['#e9eff0','#f1e6d0','#e5b474','#94b6b4','#628f8d','#406a68']),
