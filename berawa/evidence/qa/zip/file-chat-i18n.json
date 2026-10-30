@@ -1,0 +1,347 @@
+{
+ "url": "file:///tmp/zip-pension-bretxa-donostia/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitación individual, habitación doble y habitación doble familiar con 3 camas. Son amplias e insonorizadas, con TV, calefacción y WiFi"
+    },
+    {
+     "q": "¿Cuánto cuesta una habitación?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Según su web (leída el 30/10/2026), con precios orientativos por día: temporada baja (enero–mayo y octubre–diciembre) individual 38 €, doble"
+    },
+    {
+     "q": "¿Dónde puedo aparcar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La Parte Vieja es zona peatonal. Hay dos parkings privados muy cercanos: uno en la Avenida del Boulevard, a menos de 1 minuto, y otro en la "
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Todas las habitaciones tienen TV, calefacción y WiFi libre, y están insonorizadas. Además hay lavadora para los clientes (peregrinos, famili"
+    },
+    {
+     "q": "¿Tenéis ascensor?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hay ascensor para ayudarte con las maletas."
+    },
+    {
+     "q": "¿Cómo llego desde la estación de tren?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "A pie: la estación de RENFE está a 15 minutos, la de Euskotren (cercanías) a 20 minutos y la estación de autobuses a 15 minutos."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en C/ Fermín Calbetón 5-2º, 20003 Donostia-San Sebastián, en la Parte Vieja, en pleno centro de la ciudad."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web no tiene motor de reservas: se reserva llamando al +34 943 430 470 o al +34 646 957 745, o escribiendo a info@pensionbretxa.com. Este"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web no tiene motor de reservas: se reserva llamando al +34 943 430 470 o al +34 646 957 745, o escribiendo a info@pensionbretxa.com. Este"
+    },
+    {
+     "q": "Hago el Camino de Santiago, ¿es buen sitio?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí: se presentan como el establecimiento ideal para peregrinos y como punto de partida de travesías por el monte. Hay lavadora para clientes"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Cuánto cuesta una habitación?",
+    "¿Dónde puedo aparcar?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are single rooms, double rooms and family double rooms with 3 beds. They are spacious and soundproofed, with TV, heating and free WiFi"
+    },
+    {
+     "q": "How much is a room?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "According to their website (read on 30/10/2026), indicative prices per day: low season (January–May and October–December) single €38, double"
+    },
+    {
+     "q": "Where can I leave the car?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The Old Town is a pedestrian area. There are two private car parks very close by: one on Avenida del Boulevard, less than 1 minute away, and"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "All rooms have TV, heating and free WiFi, and are soundproofed. There is also a washing machine for guests (pilgrims, families, long stays…)"
+    },
+    {
+     "q": "Do you have a lift?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, there is a lift to help you with your suitcases."
+    },
+    {
+     "q": "How do I get there from the train station?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "On foot: the RENFE train station is 15 minutes away, the Euskotren (local trains) station 20 minutes and the bus station 15 minutes."
+    },
+    {
+     "q": "What is your address?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at C/ Fermín Calbetón 5-2º, 20003 Donostia-San Sebastián, in the Old Town, right in the city centre."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website has no booking engine: you book by calling +34 943 430 470 or +34 646 957 745, or by writing to info@pensionbretxa.com. This a"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website has no booking engine: you book by calling +34 943 430 470 or +34 646 957 745, or by writing to info@pensionbretxa.com. This a"
+    },
+    {
+     "q": "I am walking the Camino de Santiago, is it a good place?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes: they describe themselves as the ideal place for pilgrims and a starting point for hikes. There is a washing machine for guests and they"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "How much is a room?",
+    "Where can I leave the car?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat2",
+    "svc2"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres individuelles, doubles et doubles familiales à 3 lits. Elles sont spacieuses et insonorisées, avec TV, chauffage et WiFi"
+    },
+    {
+     "q": "Combien coûte une chambre ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Selon leur site (consulté le 30/10/2026), prix indicatifs par jour : basse saison (janvier–mai et octobre–décembre) individuelle 38 €, doubl"
+    },
+    {
+     "q": "Où laisser la voiture ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La Vieille Ville est piétonne. Deux parkings privés sont tout proches : l'un sur l'Avenida del Boulevard, à moins d'1 minute, l'autre rue Ok"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Toutes les chambres ont TV, chauffage et WiFi libre, et sont insonorisées. Un lave-linge est aussi à disposition des clients (pèlerins, fami"
+    },
+    {
+     "q": "Avez-vous un ascenseur ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, il y a un ascenseur pour vous aider avec vos valises."
+    },
+    {
+     "q": "Comment venir depuis la gare ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "À pied : la gare RENFE est à 15 minutes, la gare Euskotren (trains de banlieue) à 20 minutes et la gare routière à 15 minutes."
+    },
+    {
+     "q": "Quelle est votre adresse ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Elle se trouve C/ Fermín Calbetón 5-2º, 20003 Donostia-San Sebastián, dans la Vieille Ville, en plein centre."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site n'a pas de moteur de réservation : on réserve au +34 943 430 470 ou au +34 646 957 745, ou par e-mail à info@pensionbretxa.com. Ce"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site n'a pas de moteur de réservation : on réserve au +34 943 430 470 ou au +34 646 957 745, ou par e-mail à info@pensionbretxa.com. Ce"
+    },
+    {
+     "q": "Je fais le Chemin de Saint-Jacques, est-ce un bon endroit ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui : ils se présentent comme l'établissement idéal pour les pèlerins et comme point de départ de randonnées. Un lave-linge est à dispositio"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Combien coûte une chambre ?",
+    "Où laisser la voiture ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Einzelzimmer, Doppelzimmer und Familien-Doppelzimmer mit 3 Betten. Sie sind geräumig und schallisoliert, mit Fernseher, Heizung und "
+    },
+    {
+     "q": "Was kostet ein Zimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Laut Website (abgerufen am 30/10/2026), Richtpreise pro Tag: Nebensaison (Januar–Mai und Oktober–Dezember) Einzelzimmer 38 €, Doppelzimmer 4"
+    },
+    {
+     "q": "Wo kann ich das Auto abstellen?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Die Altstadt ist Fußgängerzone. Ganz in der Nähe gibt es zwei private Parkhäuser: eines an der Avenida del Boulevard, weniger als 1 Minute e"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Alle Zimmer haben Fernseher, Heizung und freies WLAN und sind schallisoliert. Außerdem gibt es eine Waschmaschine für Gäste (Pilger, Familie"
+    },
+    {
+     "q": "Gibt es einen Aufzug?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Aufzug, der Ihnen mit den Koffern hilft."
+    },
+    {
+     "q": "Wie komme ich vom Bahnhof hin?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Zu Fuß: Der RENFE-Bahnhof ist 15 Minuten entfernt, der Euskotren-Bahnhof (Nahverkehr) 20 Minuten und der Busbahnhof 15 Minuten."
+    },
+    {
+     "q": "Wie ist Ihre Adresse?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie liegt in der C/ Fermín Calbetón 5-2º, 20003 Donostia-San Sebastián, in der Altstadt, mitten im Zentrum."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Die Website hat keine Buchungsmaschine: Gebucht wird telefonisch unter +34 943 430 470 oder +34 646 957 745 oder per E-Mail an info@pensionb"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Die Website hat keine Buchungsmaschine: Gebucht wird telefonisch unter +34 943 430 470 oder +34 646 957 745 oder per E-Mail an info@pensionb"
+    },
+    {
+     "q": "Ich gehe den Jakobsweg, ist das ein guter Ort?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja: Die Pension sieht sich als ideale Unterkunft für Pilger und als Ausgangspunkt für Bergtouren. Es gibt eine Waschmaschine für Gäste und E"
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 943 430 470 · +34 646 957 745 · info@pensionbretxa.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Was kostet ein Zimmer?",
+    "Wo kann ich das Auto abstellen?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
